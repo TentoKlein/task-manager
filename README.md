@@ -15,6 +15,16 @@ A fullstack task management application built using React.js, Node.js, Express.j
 - Delete Tasks
 - User-specific Tasks
 - Styled Responsive UI
+- Search Tasks
+- Filter Tasks
+- Loading State Handling
+
+## Advanced Features
+
+- JWT Authentication
+- Search Functionality
+- Task Filtering
+- Loading State Handling
 
 ---
 

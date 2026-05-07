@@ -18,6 +18,7 @@ It provides REST API endpoints for user authentication and task management.
 - Complete Tasks
 - Delete Tasks
 - User-specific Tasks
+- Task Filtering Support
 
 ---
 
