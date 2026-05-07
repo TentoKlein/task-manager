@@ -38,7 +38,7 @@ It provides REST API endpoints for user authentication and task management.
 
 ### 1. Clone Repository
 
-git clone <your-github-link>
+git clone https://github.com/TentoKlein/task-manager
 
 ---
 
