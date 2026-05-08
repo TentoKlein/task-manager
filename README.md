@@ -67,6 +67,15 @@ npm install
 npm start
 
 ---
+## Live Demo
+
+Frontend:
+https://task-manager-liart-mu-26.vercel.app
+
+Backend:
+https://task-manager-backend-6y80.onrender.com
+
+---
 
 ## Author
 
