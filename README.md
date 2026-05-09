@@ -75,7 +75,7 @@ https://task-manager-liart-mu-26.vercel.app
 Backend:
 https://task-manager-backend-6y80.onrender.com
 
-Video presentaion:
+Video presentation:
 https://drive.google.com/file/d/1Qjn8ovV-DXBYRQLx9xVl4eNsA9Y4yBn_/view?usp=sharing
 
 ---
